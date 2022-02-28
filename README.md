@@ -7,7 +7,7 @@ Inside the trading-bot folder are files setting up the general crypto trading fu
 
 The arbitrage folder contains a program to perform arbitrage trading by connecting to all exchanges specified by the user and comparing prices of coins between exchanges to determine if there is an arbitrage opportunity. The program takes into account the fees required to transfer coins between exchanges and sets a minimum profit in order to perform an arbitrage trade.
 
-If an arbitrage opportunity exists, the program logs the information about the exchanges, coins, and amounts to be traded.
+If an arbitrage opportunity exists, the program logs the information about the exchanges, coins, and amounts to be traded in a green color. If no arbitrage opportunity exists, the program logs the coin pair and expected loss in a red color.
 
 The file arbitrage-output contains sample output from running the arbitrage application.
 

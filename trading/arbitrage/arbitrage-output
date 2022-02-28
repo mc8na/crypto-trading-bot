@@ -1,0 +1,166 @@
+$ node ./index.js binanceus kraken
+Symbol excluded {wallet update, deposit maintenance, bug, etc): 
+[
+  'STEEM/BTC', 'STEEM/ETH',
+  'RADS/BTC',  'NEOS/BTC',
+  'SBD/BTC',   'XRB/BTC',
+  'BCD/BTC',   'BCD/ETH'
+]
+Mon, 28 Feb 2022 17:27:10 GMT	binanceus, kraken
+Mon, 28 Feb 2022 17:27:11 GMT	binanceus loaded 175 markets
+Mon, 28 Feb 2022 17:27:14 GMT	kraken loaded 463 markets
+Mon, 28 Feb 2022 17:27:14 GMT	Loaded all markets
+Mon, 28 Feb 2022 17:27:14 GMT	symbol    | binanceus | kraken
+                             	------------------------------
+                             	1INCH/USD | binanceus | kraken
+                             	AAVE/USD  | binanceus | kraken
+                             	ADA/BTC   | binanceus | kraken
+                             	ADA/USD   | binanceus | kraken
+                             	ADA/USDT  | binanceus | kraken
+                             	ALGO/USD  | binanceus | kraken
+                             	ANKR/USD  | binanceus | kraken
+                             	ANT/USD   | binanceus | kraken
+                             	ATOM/USD  | binanceus | kraken
+                             	AVAX/USD  | binanceus | kraken
+                             	AXS/USD   | binanceus | kraken
+                             	BAND/USD  | binanceus | kraken
+                             	BAT/USD   | binanceus | kraken
+                             	BCH/BTC   | binanceus | kraken
+                             	BCH/USD   | binanceus | kraken
+                             	BCH/USDT  | binanceus | kraken
+                             	BTC/USD   | binanceus | kraken
+                             	BTC/USDC  | binanceus | kraken
+                             	BTC/USDT  | binanceus | kraken
+                             	COMP/USD  | binanceus | kraken
+                             	CRV/USD   | binanceus | kraken
+                             	CTSI/USD  | binanceus | kraken
+                             	DAI/USD   | binanceus | kraken
+                             	DASH/USD  | binanceus | kraken
+                             	DOGE/USD  | binanceus | kraken
+                             	DOGE/USDT | binanceus | kraken
+                             	DOT/BTC   | binanceus | kraken
+                             	DOT/USD   | binanceus | kraken
+                             	DOT/USDT  | binanceus | kraken
+                             	ENJ/USD   | binanceus | kraken
+                             	EOS/USD   | binanceus | kraken
+                             	EOS/USDT  | binanceus | kraken
+                             	ETC/USD   | binanceus | kraken
+                             	ETH/BTC   | binanceus | kraken
+                             	ETH/USD   | binanceus | kraken
+                             	ETH/USDC  | binanceus | kraken
+                             	ETH/USDT  | binanceus | kraken
+                             	FIL/USD   | binanceus | kraken
+                             	GRT/USD   | binanceus | kraken
+                             	ICX/USD   | binanceus | kraken
+                             	KNC/USD   | binanceus | kraken
+                             	LINK/BTC  | binanceus | kraken
+                             	LINK/USD  | binanceus | kraken
+                             	LINK/USDT | binanceus | kraken
+                             	LPT/USD   | binanceus | kraken
+                             	LRC/USD   | binanceus | kraken
+                             	LTC/BTC   | binanceus | kraken
+                             	LTC/USD   | binanceus | kraken
+                             	LTC/USDT  | binanceus | kraken
+                             	MANA/USD  | binanceus | kraken
+                             	MATIC/BTC | binanceus | kraken
+                             	MATIC/USD | binanceus | kraken
+                             	MKR/USD   | binanceus | kraken
+                             	NANO/USD  | binanceus | kraken
+                             	OMG/USD   | binanceus | kraken
+                             	OXT/USD   | binanceus | kraken
+                             	PAXG/USD  | binanceus | kraken
+                             	QTUM/USD  | binanceus | kraken
+                             	REP/USD   | binanceus | kraken
+                             	SOL/BTC   | binanceus | kraken
+                             	SOL/USD   | binanceus | kraken
+                             	STORJ/USD | binanceus | kraken
+                             	SUSHI/USD | binanceus | kraken
+                             	UNI/BTC   | binanceus | kraken
+                             	UNI/USD   | binanceus | kraken
+                             	USDC/USD  | binanceus | kraken
+                             	USDC/USDT | binanceus | kraken
+                             	USDT/USD  | binanceus | kraken
+                             	WAVES/USD | binanceus | kraken
+                             	XLM/USD   | binanceus | kraken
+                             	XRP/BTC   | binanceus | kraken
+                             	XRP/USD   | binanceus | kraken
+                             	XRP/USDT  | binanceus | kraken
+                             	XTZ/BTC   | binanceus | kraken
+                             	XTZ/USD   | binanceus | kraken
+                             	YFI/USD   | binanceus | kraken
+                             	ZEC/USD   | binanceus | kraken
+                             	ZRX/USD   | binanceus | kraken
+Mon, 28 Feb 2022 17:27:18 GMT	1INCH/USD: -0.5692050209204998%
+Mon, 28 Feb 2022 17:27:21 GMT	AAVE/USD: -0.5172776665713427%
+Mon, 28 Feb 2022 17:27:25 GMT	ADA/BTC: -0.4483782589482962%
+Mon, 28 Feb 2022 17:27:28 GMT	ADA/USD: -0.3475633323780599%
+Mon, 28 Feb 2022 17:27:31 GMT	ADA/USDT: -0.448793829801026%
+Mon, 28 Feb 2022 17:27:36 GMT	ALGO/USD: -0.4577353992848595%
+Mon, 28 Feb 2022 17:27:39 GMT	ANKR/USD: -0.5241546037904784%
+Mon, 28 Feb 2022 17:27:42 GMT	ANT/USD: -0.5291389466726312%
+Mon, 28 Feb 2022 17:27:46 GMT	ATOM/USD: -0.422852040115402%
+Mon, 28 Feb 2022 17:27:49 GMT	AVAX/USD: -0.39789792824658854%
+Mon, 28 Feb 2022 17:27:52 GMT	AXS/USD: -0.5890608505128855%
+Mon, 28 Feb 2022 17:27:56 GMT	BAND/USD: -0.7140998118844674%
+Mon, 28 Feb 2022 17:27:59 GMT	BAT/USD: -0.4953469155150333%
+Mon, 28 Feb 2022 17:28:04 GMT	BCH/BTC: -0.561257861635229%
+Mon, 28 Feb 2022 17:28:08 GMT	BCH/USD: -0.40927018537908%
+Mon, 28 Feb 2022 17:28:11 GMT	BCH/USDT: -0.48919101814826693%
+Mon, 28 Feb 2022 17:28:14 GMT	BTC/USD: -0.3551605807303023%
+Mon, 28 Feb 2022 17:28:18 GMT	BTC/USDC: -0.4266018815703717%
+Mon, 28 Feb 2022 17:28:21 GMT	BTC/USDT: -0.37934008973215605%
+Mon, 28 Feb 2022 17:28:24 GMT	COMP/USD: -0.4975870668157253%
+Mon, 28 Feb 2022 17:28:28 GMT	CRV/USD: -0.36%
+Mon, 28 Feb 2022 17:28:33 GMT	CTSI/USD: -0.6023263327948288%
+Mon, 28 Feb 2022 17:28:37 GMT	DAI/USD: -0.3699999999999989%
+Mon, 28 Feb 2022 17:28:40 GMT	DASH/USD: -0.4440159630329795%
+Mon, 28 Feb 2022 17:28:44 GMT	DOGE/USD: -0.4161693741978453%
+Mon, 28 Feb 2022 17:28:47 GMT	DOGE/USDT: -0.3737279127689238%
+Mon, 28 Feb 2022 17:28:50 GMT	DOT/BTC: -0.45257116408238895%
+Mon, 28 Feb 2022 17:28:54 GMT	DOT/USD: -0.37132374589513095%
+Mon, 28 Feb 2022 17:28:57 GMT	DOT/USDT: -0.46972850678733213%
+Mon, 28 Feb 2022 17:29:00 GMT	ENJ/USD: -0.45579854933625674%
+Mon, 28 Feb 2022 17:29:03 GMT	EOS/USD: -0.4476383763837696%
+Mon, 28 Feb 2022 17:29:07 GMT	EOS/USDT: -0.539889298892999%
+Mon, 28 Feb 2022 17:29:11 GMT	ETC/USD: -0.420011444042829%
+Mon, 28 Feb 2022 17:29:14 GMT	ETH/BTC: -0.3395829079772602%
+Mon, 28 Feb 2022 17:29:17 GMT	ETH/USD: -0.37388849320531625%
+Mon, 28 Feb 2022 17:29:21 GMT	ETH/USDC: -0.3774493346105864%
+Mon, 28 Feb 2022 17:29:25 GMT	ETH/USDT: -0.31757726997254176%
+Mon, 28 Feb 2022 17:29:31 GMT	FIL/USD: -0.3742972882809844%
+Mon, 28 Feb 2022 17:29:34 GMT	GRT/USD: -0.4650362098512836%
+Mon, 28 Feb 2022 17:29:38 GMT	ICX/USD: -0.5372264067346207%
+Mon, 28 Feb 2022 17:29:41 GMT	KNC/USD: -0.5627595074427735%
+Mon, 28 Feb 2022 17:29:45 GMT	LINK/BTC: -0.4636124334920285%
+Mon, 28 Feb 2022 17:29:48 GMT	LINK/USD: -0.3678037827810129%
+Mon, 28 Feb 2022 17:29:52 GMT	LINK/USDT: -0.48711716478752687%
+Mon, 28 Feb 2022 17:29:55 GMT	LPT/USD: -0.5175423395037356%
+Mon, 28 Feb 2022 17:29:58 GMT	LRC/USD: -0.5007189458871638%
+Mon, 28 Feb 2022 17:30:06 GMT	LTC/BTC: -0.4732930513595198%
+Mon, 28 Feb 2022 17:30:10 GMT	LTC/USD: -0.3784808722971663%
+Mon, 28 Feb 2022 17:30:13 GMT	LTC/USDT: -0.4741407501878855%
+Mon, 28 Feb 2022 17:30:16 GMT	MANA/USD: -0.3882843319687198%
+Mon, 28 Feb 2022 17:30:20 GMT	MATIC/BTC: -0.4394912559618388%
+Mon, 28 Feb 2022 17:30:23 GMT	MATIC/USD: -0.40534853589013287%
+Mon, 28 Feb 2022 17:30:27 GMT	MKR/USD: -0.4812683789145963%
+Mon, 28 Feb 2022 17:30:33 GMT	OMG/USD: -0.5122861448015278%
+Mon, 28 Feb 2022 17:30:37 GMT	OXT/USD: -0.5026174496644283%
+Mon, 28 Feb 2022 17:30:41 GMT	PAXG/USD: -0.5163104378281888%
+Mon, 28 Feb 2022 17:30:44 GMT	QTUM/USD: -0.4675988018727991%
+Mon, 28 Feb 2022 17:30:49 GMT	REP/USD: -0.6557746478873258%
+Mon, 28 Feb 2022 17:30:52 GMT	SOL/BTC: -0.4461141011840649%
+Mon, 28 Feb 2022 17:30:56 GMT	SOL/USD: -0.3761188369152909%
+Mon, 28 Feb 2022 17:31:00 GMT	STORJ/USD: -0.4825114854517706%
+Mon, 28 Feb 2022 17:31:03 GMT	SUSHI/USD: -0.5101501501501523%
+Mon, 28 Feb 2022 17:31:06 GMT	UNI/BTC: -0.45750548468350216%
+Mon, 28 Feb 2022 17:31:10 GMT	UNI/USD: -0.5530788652903637%
+Mon, 28 Feb 2022 17:31:17 GMT	USDC/USD: -0.3699999999999989%
+Mon, 28 Feb 2022 17:31:23 GMT	USDC/USDT: -0.3700030009002716%
+Mon, 28 Feb 2022 17:31:27 GMT	USDT/USD: -0.369996001599355%
+Mon, 28 Feb 2022 17:31:32 GMT	WAVES/USD: -0.49668433818707636%
+Mon, 28 Feb 2022 17:31:36 GMT	XLM/USD: -0.3805653900305358%
+Mon, 28 Feb 2022 17:31:49 GMT	XTZ/BTC: -0.48285012285012663%
+Mon, 28 Feb 2022 17:31:52 GMT	XTZ/USD: -0.4558744045300719%
+Mon, 28 Feb 2022 17:31:56 GMT	YFI/USD: -0.5573373033411718%
+Mon, 28 Feb 2022 17:32:00 GMT	ZEC/USD: -0.4561874781392091%
+Mon, 28 Feb 2022 17:32:03 GMT	ZRX/USD: -0.5589150090416114%
